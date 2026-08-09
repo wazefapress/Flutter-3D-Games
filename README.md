@@ -156,3 +156,6 @@ cd my_3d_puzzle
 flutter pub add flame flame_3d flame_audio shared_preferences games_services
 
 باقي الخطوات و الدروس مع الأكواد في الملفات المرفقة
+
+المزيد من الألعاب 
+https://games.haythamzeidan.workers.dev/
